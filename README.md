@@ -1,7 +1,7 @@
 # MaskRCNN
 Projects related to MaskRCNN
 
-[Prebuild Model](https://github.com/matterport/Mask_RCNN)
+Clone [Prebuild Model](https://github.com/matterport/Mask_RCNN)
 
 On Windows 10 pro PC with GPU
 ```
@@ -18,3 +18,5 @@ Dataset
 Annotation and Saving data as JSON
 [VIA Tool](http://www.robots.ox.ac.uk/~vgg/software/via/)
 
+Todo
+Refinement
